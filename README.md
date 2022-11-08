@@ -11,6 +11,7 @@ Hey Visitor, I am computer sc (cse) undergrad, currently in my freshman year. I 
 * ✉️  You can contact me at [kaushikkundu774@gmail.com](mailto:kaushikkundu774@gmail.com)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Interesting frontend projects
+* 📩  I'm quite active on Twitter & linkedIn, so you can connect with me there.
 
 <a href="https://www.twitter.com/Kaushik_901" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Kaushik_901?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
